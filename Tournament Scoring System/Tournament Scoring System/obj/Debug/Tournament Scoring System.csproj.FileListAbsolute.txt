@@ -1,0 +1,51 @@
+N:\Tournament Scoring System\Tournament Scoring System\bin\Debug\Database.mdf
+N:\Tournament Scoring System\Tournament Scoring System\bin\Debug\Database_log.ldf
+N:\Tournament Scoring System\Tournament Scoring System\bin\Debug\Tournament Scoring System.exe.config
+N:\Tournament Scoring System\Tournament Scoring System\bin\Debug\Tournament Scoring System.exe
+N:\Tournament Scoring System\Tournament Scoring System\bin\Debug\Tournament Scoring System.pdb
+N:\Tournament Scoring System\Tournament Scoring System\obj\Debug\Tournament Scoring System.csprojAssemblyReference.cache
+N:\Tournament Scoring System\Tournament Scoring System\obj\Debug\Tournament_Scoring_System.Properties.Resources.resources
+N:\Tournament Scoring System\Tournament Scoring System\obj\Debug\Tournament Scoring System.csproj.GenerateResource.cache
+N:\Tournament Scoring System\Tournament Scoring System\obj\Debug\Tournament Scoring System.csproj.CoreCompileInputs.cache
+N:\Tournament Scoring System\Tournament Scoring System\obj\Debug\Tournament Scoring System.exe
+N:\Tournament Scoring System\Tournament Scoring System\obj\Debug\Tournament Scoring System.pdb
+N:\Tournament Scoring System\Tournament Scoring System\obj\Debug\Tournament_Scoring_System.fm_result.resources
+\\wla-dolphin\SinghPra$\Tournament Scoring System\Tournament Scoring System\bin\Debug\Database.mdf
+\\wla-dolphin\SinghPra$\Tournament Scoring System\Tournament Scoring System\bin\Debug\Database_log.ldf
+\\wla-dolphin\SinghPra$\Tournament Scoring System\Tournament Scoring System\bin\Debug\Tournament Scoring System.exe.config
+\\wla-dolphin\SinghPra$\Tournament Scoring System\Tournament Scoring System\bin\Debug\Tournament Scoring System.exe
+\\wla-dolphin\SinghPra$\Tournament Scoring System\Tournament Scoring System\bin\Debug\Tournament Scoring System.pdb
+\\wla-dolphin\SinghPra$\Tournament Scoring System\Tournament Scoring System\obj\Debug\Tournament Scoring System.csprojAssemblyReference.cache
+\\wla-dolphin\SinghPra$\Tournament Scoring System\Tournament Scoring System\obj\Debug\Tournament_Scoring_System.fm_result.resources
+\\wla-dolphin\SinghPra$\Tournament Scoring System\Tournament Scoring System\obj\Debug\Tournament_Scoring_System.Properties.Resources.resources
+\\wla-dolphin\SinghPra$\Tournament Scoring System\Tournament Scoring System\obj\Debug\Tournament Scoring System.csproj.GenerateResource.cache
+\\wla-dolphin\SinghPra$\Tournament Scoring System\Tournament Scoring System\obj\Debug\Tournament Scoring System.csproj.CoreCompileInputs.cache
+\\wla-dolphin\SinghPra$\Tournament Scoring System\Tournament Scoring System\obj\Debug\Tournament Scoring System.exe
+\\wla-dolphin\SinghPra$\Tournament Scoring System\Tournament Scoring System\obj\Debug\Tournament Scoring System.pdb
+\\wla-dolphin\SinghPra$\Tournament Scoring System\Tournament Scoring System\obj\Debug\Tournament_Scoring_System.fm_Participant.resources
+\\wla-dolphin\SinghPra$\Tournament Scoring System\Tournament Scoring System\obj\Debug\Tournament_Scoring_System.fm_Teams.resources
+\\wla-dolphin\SinghPra$\Tournament Scoring System\Tournament Scoring System\obj\Debug\Tournament_Scoring_System.fm_buttons.resources
+\\wla-dolphin\SinghPra$\Tournament Scoring System\Tournament Scoring System\obj\Debug\Tournament_Scoring_System.fm_Switchboard.resources
+N:\Tournament Scoring System\Tournament Scoring System\obj\Debug\Tournament_Scoring_System.fm_Participant.resources
+N:\Tournament Scoring System\Tournament Scoring System\obj\Debug\Tournament_Scoring_System.fm_Teams.resources
+N:\Tournament Scoring System\Tournament Scoring System\obj\Debug\Tournament_Scoring_System.fm_Switchboard.resources
+N:\Tournament Scoring System\Tournament Scoring System\obj\Debug\Tournament_Scoring_System.fm_Event.resources
+N:\Tournament Scoring System\Tournament Scoring System\obj\Debug\Tournament_Scoring_System.fm_DisplayResult.resources
+E:\SCHOOL WORK\Tournament Scoring System\Tournament Scoring System\bin\Debug\Database.mdf
+E:\SCHOOL WORK\Tournament Scoring System\Tournament Scoring System\bin\Debug\Database_log.ldf
+E:\SCHOOL WORK\Tournament Scoring System\Tournament Scoring System\bin\Debug\Tournament Scoring System.exe.config
+E:\SCHOOL WORK\Tournament Scoring System\Tournament Scoring System\bin\Debug\Tournament Scoring System.exe
+E:\SCHOOL WORK\Tournament Scoring System\Tournament Scoring System\bin\Debug\Tournament Scoring System.pdb
+E:\SCHOOL WORK\Tournament Scoring System\Tournament Scoring System\obj\Debug\Tournament Scoring System.csproj.AssemblyReference.cache
+E:\SCHOOL WORK\Tournament Scoring System\Tournament Scoring System\obj\Debug\Tournament Scoring System.csproj.SuggestedBindingRedirects.cache
+E:\SCHOOL WORK\Tournament Scoring System\Tournament Scoring System\obj\Debug\Tournament_Scoring_System.fm_DisplayResult.resources
+E:\SCHOOL WORK\Tournament Scoring System\Tournament Scoring System\obj\Debug\Tournament_Scoring_System.fm_Event.resources
+E:\SCHOOL WORK\Tournament Scoring System\Tournament Scoring System\obj\Debug\Tournament_Scoring_System.fm_Result.resources
+E:\SCHOOL WORK\Tournament Scoring System\Tournament Scoring System\obj\Debug\Tournament_Scoring_System.fm_Participant.resources
+E:\SCHOOL WORK\Tournament Scoring System\Tournament Scoring System\obj\Debug\Tournament_Scoring_System.fm_Teams.resources
+E:\SCHOOL WORK\Tournament Scoring System\Tournament Scoring System\obj\Debug\Tournament_Scoring_System.fm_Switchboard.resources
+E:\SCHOOL WORK\Tournament Scoring System\Tournament Scoring System\obj\Debug\Tournament_Scoring_System.Properties.Resources.resources
+E:\SCHOOL WORK\Tournament Scoring System\Tournament Scoring System\obj\Debug\Tournament Scoring System.csproj.GenerateResource.cache
+E:\SCHOOL WORK\Tournament Scoring System\Tournament Scoring System\obj\Debug\Tournament Scoring System.csproj.CoreCompileInputs.cache
+E:\SCHOOL WORK\Tournament Scoring System\Tournament Scoring System\obj\Debug\Tournament Scoring System.exe
+E:\SCHOOL WORK\Tournament Scoring System\Tournament Scoring System\obj\Debug\Tournament Scoring System.pdb
